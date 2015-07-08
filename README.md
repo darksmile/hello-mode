@@ -1,6 +1,6 @@
 # Hello world Emacs major mode
 
-Yes, looks very unusual. Just to realize how to create emacs mode and how to issue Emacs package (built-in linter is advanced and was really helpful).
+Yes, looks very unusual. Just to realize how to create [Emacs](http://www.gnu.org/software/emacs/ "Emacs official website") mode and how to issue Emacs package (built-in linter is advanced and was really helpful).
 
 ## Installation
 
